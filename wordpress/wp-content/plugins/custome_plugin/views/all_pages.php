@@ -1,0 +1,1 @@
+<h1>this is the all pages function calling</h1>
